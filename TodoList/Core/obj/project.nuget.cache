@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dEribhhQBwd/6Z/dfpyWbgOMINoiUxC+G4oimT5WUZYbvp5anql45QmtZLgkbpgP/3blJESZ18M7oxJSNE4kg==",
+  "success": true,
+  "projectFilePath": "/Users/spike/RiderProjects/TodoList/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/spike/.nuget/packages/hellang.middleware.problemdetails/6.5.1/hellang.middleware.problemdetails.6.5.1.nupkg.sha512",
+    "/Users/spike/.nuget/packages/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
